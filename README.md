@@ -1,4 +1,5 @@
 Heart Disease Prediction: End-to-End Machine Learning Pipeline
+
 This project builds a complete machine learning pipeline to predict the presence of heart disease using clinical features. It covers data validation, preprocessing, model comparison, hyperparameter tuning, final evaluation, and reusable prediction scripts.
 Project Objective
 The goal of this project is to develop a reliable binary classification model that predicts whether a patient is likely to have heart disease based on medical attributes such as age, chest pain type, cholesterol, maximum heart rate, and other clinical measurements.
